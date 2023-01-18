@@ -6,7 +6,7 @@
 ### <div align="center">I'm Gleb, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/Glebweider/BattleStar)  
+  - 🔭 I’m currently working on [BattleStar](https://github.com/Glebweider/BattleStar)  
   
 
 - 🌱 I’m currently learning React 
@@ -106,7 +106,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Glebweider&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Glebweider&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
 
 <br/>   
 
