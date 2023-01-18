@@ -87,4 +87,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Glebweider&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wzninfeeubw57nbrw3wulhw5mi&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
   
