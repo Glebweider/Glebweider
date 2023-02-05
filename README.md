@@ -91,4 +91,4 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Glebweider&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glebweider&layout=compact)]
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glebweider&layout=compact" alt="" /></div>
