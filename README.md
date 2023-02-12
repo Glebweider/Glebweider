@@ -5,22 +5,6 @@
   <img align="right" src="./metrics.plugin.languages.indepth.svg" alt="Metrics" width="400">
 </div>
 
-
-### <div align="center">I'm Gleb, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
-  
-
-  - 🔭 I’m currently working on [BattleStar](https://github.com/Glebweider/BattleStar)  
-  
-
-- 🌱 I’m currently learning React 
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
 <br/>  
 
 
