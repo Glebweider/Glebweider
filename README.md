@@ -1,3 +1,8 @@
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
+
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
