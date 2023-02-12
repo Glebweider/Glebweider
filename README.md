@@ -1,5 +1,5 @@
 
-<div content="center">  
+<div align="beetwen">  
   <img src="/github-metrics.svg" alt="Metrics" width="500">
   <img src="./metrics.plugin.activity.svg" alt="Metrics" width="500">
   <img src="./metrics.plugin.languages.indepth.svg" alt="Metrics" width="500">
