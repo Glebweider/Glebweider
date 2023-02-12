@@ -1,9 +1,9 @@
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-<img align="center" src="./metrics.plugin.languages.indepth.svg" alt="Metrics" width="400">
-<img align="center" src="./metrics.plugin.activity.svg" alt="Metrics" width="400">
-
-
+<div align="center">  
+  <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+  <img align="center" src="./metrics.plugin.languages.indepth.svg" alt="Metrics" width="400">
+  <img align="center" src="./metrics.plugin.activity.svg" alt="Metrics" width="400">
+</div>
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
