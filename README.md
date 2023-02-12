@@ -5,10 +5,6 @@
   <img align="right" src="./metrics.plugin.languages.indepth.svg" alt="Metrics" width="400">
 </div>
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Gleb, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
