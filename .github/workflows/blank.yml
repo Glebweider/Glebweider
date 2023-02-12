@@ -21,5 +21,4 @@ jobs:
           plugin_languages_ignored: >-
             html, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
-          plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
