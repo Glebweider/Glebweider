@@ -19,9 +19,9 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
-            html, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            html, tex, dockerfile, makefile, lex, cmake, shell,
             gnuplot, python
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
-          plugin_languages_limit: 8
+          plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
