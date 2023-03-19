@@ -1,10 +1,4 @@
 
-<div align="center">  
-  <img align="right" src="./metrics.plugin.languages.details.svg" alt="Metrics" width="400">
-</div>
-
-<br/>  
-
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -47,6 +41,12 @@
 </td></tr></table>  
 
 <br/>  
+
+<div align="center">  
+  <img align="right" src="./metrics.plugin.languages.details.svg" alt="Metrics" width="400">
+</div>
+
+<br/>
 
 
 ## Connect with me  
