@@ -42,12 +42,6 @@
 
 <br/>  
 
-<div align="center">  
-  <img align="right" src="./metrics.plugin.languages.details.svg" alt="Metrics" width="400">
-</div>
-
-<br/>
-
 
 ## Connect with me  
 <div align="center">
@@ -64,3 +58,10 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+<div align="center">  
+  <img align="right" src="./metrics.plugin.languages.details.svg" alt="Metrics" width="400">
+</div>
+
+<br/>
+
