@@ -24,4 +24,5 @@ jobs:
           plugin_languages_aliases: javascript:JS typescript:TS
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
+          plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 15
